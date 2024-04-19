@@ -24,7 +24,7 @@ VITE_AUTH0_CLIENT_ID=your_auth0_client_id
 ```
 Start the development server:
 ```
-npm start
+npm run dev
 ```
 Open your browser and navigate to `http://localhost:3000`.
 
