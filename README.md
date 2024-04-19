@@ -28,3 +28,7 @@ npm run dev
 ```
 Open your browser and navigate to `http://localhost:3000`.
 
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/Lalitkumar4/react-auth0-app/blob/main/LICENSE).
